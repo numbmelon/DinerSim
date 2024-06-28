@@ -1,0 +1,99 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_three_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 7,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 2,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy food with a hint of sweetness."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I can handle the heat, bring it on."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I love the taste of salty snacks."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level7_13",
+    "specialEvents": []
+}

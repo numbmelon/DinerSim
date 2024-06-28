@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3100bb3bf77cda4aba41d71e06b4834, type: 3}
+  m_Name: WaiterInfo_SO
+  m_EditorClassIdentifier: 
+  npcName: YaoXiang
+  npcRole: 1
+  npcBackground: 'working at a restaurant in a 2d game world. '
+  npcCharacteristic: good at talking to others.
+  npcStatus: ready to serve
+  historyInstructions: []
+  actionList: []
+  chatHistory: []

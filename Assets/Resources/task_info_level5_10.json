@@ -1,0 +1,74 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_three_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 1,
+            "item_counts_by_type": {
+                "plate": 1
+            },
+            "items": [
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -6,
+                        -10
+                    ],
+                    "item_index": 0
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 4,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 6,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 180,
+    "taskName": "task_level5_10",
+    "specialEvents": []
+}

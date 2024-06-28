@@ -1,0 +1,193 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_seven_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 1,
+            "item_counts_by_type": {
+                "pan": 1
+            },
+            "items": [
+                {
+                    "item_type": "pan",
+                    "properties": {},
+                    "pos": [
+                        2,
+                        -13
+                    ],
+                    "item_index": 0
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 15,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I love desserts and anything sugary."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 0,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I love the taste of salty snacks."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I have a sweet tooth."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "The sharper the flavor, the better."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "Salty food always hits the spot."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "A hint of saltiness makes food perfect for me."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Sour food always perks up my taste buds."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy food with a hint of sweetness."
+            },
+            {
+                "priority": 3,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I love dishes with a zesty kick."
+            },
+            {
+                "priority": 3,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "A little spice always makes things nice."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 270,
+    "taskName": "task_level9_10",
+    "specialEvents": []
+}

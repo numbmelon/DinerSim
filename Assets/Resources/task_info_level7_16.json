@@ -1,0 +1,84 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_three_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 6,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I prefer dishes with a savory touch."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I like my meals with a bit of zing."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level7_16",
+    "specialEvents": []
+}

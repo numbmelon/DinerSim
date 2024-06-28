@@ -1,0 +1,92 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_two_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 3,
+            "item_counts_by_type": {
+                "plate": 3
+            },
+            "items": [
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        2,
+                        -5
+                    ],
+                    "item_index": 0
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        0,
+                        -10
+                    ],
+                    "item_index": 1
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -5,
+                        -10
+                    ],
+                    "item_index": 2
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 4,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 6,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 150,
+    "taskName": "task_level4_13",
+    "specialEvents": []
+}

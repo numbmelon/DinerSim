@@ -1,0 +1,69 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_two_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 3,
+            "item_counts_by_type": {
+                "food": 1,
+                "plate": 2
+            },
+            "items": [
+                {
+                    "item_type": "food",
+                    "properties": {
+                        "foodproperty": {
+                            "foodName": "potato",
+                            "isCut": false,
+                            "isCooked": false
+                        },
+                        "plate": -1
+                    },
+                    "pos": [
+                        -6,
+                        -5
+                    ],
+                    "item_index": 0
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -3,
+                        -10
+                    ],
+                    "item_index": 1
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -4,
+                        -10
+                    ],
+                    "item_index": 2
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 1,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "potato_cooked"
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 120,
+    "taskName": "task_level1_1"
+}

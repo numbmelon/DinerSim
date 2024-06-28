@@ -1,0 +1,157 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_five_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 13,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "Give me something with a fiery kick."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "A touch of sourness makes meals interesting."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I enjoy food with a bit of salt."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "A hint of saltiness makes food perfect for me."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy the comforting taste of sweet dishes."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "Spicy food is my favorite comfort food."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level8_11",
+    "specialEvents": []
+}

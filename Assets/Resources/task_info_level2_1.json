@@ -1,0 +1,107 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_two_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 5,
+            "item_counts_by_type": {
+                "food": 2,
+                "plate": 3
+            },
+            "items": [
+                {
+                    "item_type": "food",
+                    "properties": {
+                        "foodproperty": {
+                            "foodName": "potato",
+                            "isCut": false,
+                            "isCooked": false
+                        },
+                        "plate": -1
+                    },
+                    "pos": [
+                        10,
+                        -5
+                    ],
+                    "item_index": 0
+                },
+                {
+                    "item_type": "food",
+                    "properties": {
+                        "foodproperty": {
+                            "foodName": "eggplant",
+                            "isCut": false,
+                            "isCooked": false
+                        },
+                        "plate": -1
+                    },
+                    "pos": [
+                        0,
+                        -10
+                    ],
+                    "item_index": 1
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -3,
+                        -10
+                    ],
+                    "item_index": 2
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -6,
+                        -5
+                    ],
+                    "item_index": 3
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -7,
+                        -5
+                    ],
+                    "item_index": 4
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 2,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 6,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 120,
+    "taskName": "task_level2_1",
+    "specialEvents": []
+}

@@ -1,0 +1,150 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_five_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 12,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 3,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I enjoy the umami notes in my dishes."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "Sweet flavors always make me happy."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy the comforting taste of sweet dishes."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Give me something with a tart edge."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I prefer dishes with a savory touch."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Sour food always perks up my taste buds."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 3,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I have a sweet tooth."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Give me something with a tart edge."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level8_17",
+    "specialEvents": []
+}

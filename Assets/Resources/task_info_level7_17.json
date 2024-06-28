@@ -1,0 +1,86 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_three_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 6,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I appreciate the delicate balance of sweet notes."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I enjoy a bit of heat in my meals."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "Give me something that satisfies my sugar cravings."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level7_17",
+    "specialEvents": []
+}

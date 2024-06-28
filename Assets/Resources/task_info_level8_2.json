@@ -1,0 +1,159 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_five_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 0,
+            "item_counts_by_type": {},
+            "items": []
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 13,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I crave the refreshing taste of sour flavors."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "Sweet flavors always make me happy."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 2,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I like my meals with a bit of zing."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I appreciate the boldness of sour notes."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "The sharper the flavor, the better."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I appreciate the delicate balance of sweet notes."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I love the taste of salty snacks."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 240,
+    "taskName": "task_level8_2",
+    "specialEvents": []
+}

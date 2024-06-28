@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea72732274d7f649b8927b28da3d709, type: 3}
+  m_Name: RecipeInfo
+  m_EditorClassIdentifier: 
+  recipes:
+  - dishName: carrot_cooked
+    ingredients:
+    - foodName: carrot
+      cuttable: 1
+      isCut: 1
+      sprite: {fileID: 1545099139, guid: 443eae7d63f47f14da7250abdf167993, type: 3}
+      isCooked: 0
+      coinValue: 3
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: carrot
+      cuttable: 1
+      isCut: 1
+      sprite: {fileID: -1777343712, guid: 443eae7d63f47f14da7250abdf167993, type: 3}
+      isCooked: 0
+      coinValue: 15
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: d82a6663c18422947a7635c902911b45, type: 3}
+    cookingTime: 5
+  - dishName: eggplant_cooked
+    ingredients:
+    - foodName: eggplant
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: eedbee861a10ad84b8759cdd45a36426, type: 3}
+      isCooked: 0
+      coinValue: 5
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: eggplant_cooked
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: 32c20d164fc062e45b02e0f229c61f3d, type: 3}
+      isCooked: 1
+      coinValue: 20
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: fc7ad4cec6153a641976f6a5a3e79a00, type: 3}
+    cookingTime: 7
+  - dishName: steak_cooked
+    ingredients:
+    - foodName: steak
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: e4e5ce4a6b537804eb5445096fd6e7bd, type: 3}
+      isCooked: 0
+      coinValue: 8
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: steak_cooked
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: bcb870d768464394fa910ddc202a09ef, type: 3}
+      isCooked: 1
+      coinValue: 30
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: 73ddbd2fae0e05f4994a45dda7fa80aa, type: 3}
+    cookingTime: 12
+  - dishName: carrot_cut
+    ingredients:
+    - foodName: carrot
+      cuttable: 1
+      isCut: 1
+      sprite: {fileID: 1781914600, guid: 443eae7d63f47f14da7250abdf167993, type: 3}
+      isCooked: 0
+      coinValue: 3
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: carrot
+      cuttable: 1
+      isCut: 1
+      sprite: {fileID: -1777343712, guid: 443eae7d63f47f14da7250abdf167993, type: 3}
+      isCooked: 0
+      coinValue: 10
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: 4d22a01c75e834d4386d8af40ab22f26, type: 3}
+    cookingTime: 0
+  - dishName: potato_cooked
+    ingredients:
+    - foodName: potato
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: 584d869d5d66278408ab507434c20b13, type: 3}
+      isCooked: 0
+      coinValue: 3
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: potato_cooked
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: 1580bf28fb291ee4bb5ca37d5328e308, type: 3}
+      isCooked: 0
+      coinValue: 10
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: fe058ae4c4dbca3439cd4ba612459f89, type: 3}
+    cookingTime: 5
+  - dishName: fried_potato_carrot
+    ingredients:
+    - foodName: potato
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: 584d869d5d66278408ab507434c20b13, type: 3}
+      isCooked: 0
+      coinValue: 3
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    - foodName: carrot
+      cuttable: 1
+      isCut: 1
+      sprite: {fileID: 1545099139, guid: 443eae7d63f47f14da7250abdf167993, type: 3}
+      isCooked: 0
+      coinValue: 3
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    result:
+      foodName: fried_potato_carrot
+      cuttable: 0
+      isCut: 0
+      sprite: {fileID: 21300000, guid: 61b4688e6495ec2418c5d2d617c09893, type: 3}
+      isCooked: 1
+      coinValue: 40
+      spicy: 0
+      salty: 0
+      sour: 0
+      sweet: 0
+    foodPrefab: {fileID: 2023395295780041469, guid: f7401f254be726642aaa3544a24679cc, type: 3}
+    cookingTime: 10

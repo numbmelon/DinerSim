@@ -1,0 +1,22 @@
+# System files
+.vscode/
+.plastic/
+lm_agent_restaurant.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+obj/
+
+# Packages
+Packages/
+Library/
+
+# Temp files
+Temp/
+
+# Log files
+Logs/
+Log/
+Log_Exp/
+
+# Settings
+.fake

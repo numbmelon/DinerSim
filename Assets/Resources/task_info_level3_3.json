@@ -1,0 +1,116 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_two_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 4,
+            "item_counts_by_type": {
+                "food": 2,
+                "plate": 2
+            },
+            "items": [
+                {
+                    "item_type": "food",
+                    "properties": {
+                        "foodproperty": {
+                            "foodName": "potato",
+                            "isCut": false,
+                            "isCooked": false
+                        },
+                        "plate": -1
+                    },
+                    "pos": [
+                        -5,
+                        -10
+                    ],
+                    "item_index": 0
+                },
+                {
+                    "item_type": "food",
+                    "properties": {
+                        "foodproperty": {
+                            "foodName": "carrot",
+                            "isCut": false,
+                            "isCooked": false
+                        },
+                        "plate": -1
+                    },
+                    "pos": [
+                        -4,
+                        -10
+                    ],
+                    "item_index": 1
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -6,
+                        -10
+                    ],
+                    "item_index": 2
+                },
+                {
+                    "item_type": "plate",
+                    "properties": {},
+                    "pos": [
+                        -6,
+                        -5
+                    ],
+                    "item_index": 3
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 4,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 7,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 150,
+    "taskName": "task_level3_3",
+    "specialEvents": []
+}

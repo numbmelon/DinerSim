@@ -1,0 +1,188 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_seven_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 1,
+            "item_counts_by_type": {
+                "pan": 1
+            },
+            "items": [
+                {
+                    "item_type": "pan",
+                    "properties": {},
+                    "pos": [
+                        2,
+                        -13
+                    ],
+                    "item_index": 0
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 14,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 6,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I love dishes with a zesty kick."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy food with a hint of sweetness."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I like my meals with a bit of a burn."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Sour food always perks up my taste buds."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I prefer dishes with a savory touch."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "A hint of saltiness makes food perfect for me."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 0,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I have a taste for the hot and bold."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "Give me something with a fiery kick."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 4,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "Give me something that satisfies my sugar cravings."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I enjoy food with a bit of salt."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "The spicier, the better."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Give me something with a tart edge."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 270,
+    "taskName": "task_level9_14",
+    "specialEvents": []
+}

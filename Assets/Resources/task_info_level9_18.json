@@ -1,0 +1,200 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_seven_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 1,
+            "item_counts_by_type": {
+                "pan": 1
+            },
+            "items": [
+                {
+                    "item_type": "pan",
+                    "properties": {},
+                    "pos": [
+                        2,
+                        -13
+                    ],
+                    "item_index": 0
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 16,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I like my meals with a bit of zing."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I love dishes with a zesty kick."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I like my meals with a bit of zing."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 5,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I love dishes that pack a punch."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "Give me something with a tart edge."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 0,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I love the taste of salty snacks."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 3,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "A little spice always makes things nice."
+            },
+            {
+                "priority": 3,
+                "wantsBeverage": true,
+                "seatIdx": 1,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "The spicier, the better."
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 270,
+    "taskName": "task_level9_18",
+    "specialEvents": []
+}

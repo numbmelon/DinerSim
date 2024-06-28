@@ -1,0 +1,184 @@
+{
+    "agentInfo": {
+        "agentNumber": 2,
+        "agentConfigs": [],
+        "defaultSettings": "default_seven_agents"
+    },
+    "sceneInfo": {
+        "items": {
+            "item_total_count": 1,
+            "item_counts_by_type": {
+                "pan": 1
+            },
+            "items": [
+                {
+                    "item_type": "pan",
+                    "properties": {},
+                    "pos": [
+                        2,
+                        -13
+                    ],
+                    "item_index": 0
+                }
+            ]
+        },
+        "map": "default"
+    },
+    "orderInfo": {
+        "totalOrdersNum": 14,
+        "orders": [
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I love dishes with a zesty kick."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": false,
+                "seatIdx": 0,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I enjoy food with a hint of sweetness."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "I crave the refreshing taste of sour flavors."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sour"
+                ],
+                "flavorDescription": "The sharper the flavor, the better."
+            },
+            {
+                "priority": 1,
+                "wantsBeverage": true,
+                "seatIdx": 6,
+                "foodType": "carrot_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "Give me something that satisfies my sugar cravings."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 7,
+                "foodType": "none",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 0,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I enjoy a bit of heat in my meals."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 2,
+                "foodType": "potato_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "sweet"
+                ],
+                "flavorDescription": "I have a sweet tooth."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 6,
+                "foodType": "carrot_cut",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "spicy"
+                ],
+                "flavorDescription": "I crave food that warms me up."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 1,
+                "foodType": "fried_potato_carrot",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": false,
+                "seatIdx": 5,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "I have a taste for the savory side."
+            },
+            {
+                "priority": 2,
+                "wantsBeverage": true,
+                "seatIdx": 4,
+                "foodType": "steak_cooked",
+                "diningOption": "dine_in",
+                "flavors": [
+                    "salty"
+                ],
+                "flavorDescription": "Give me something with a robust, savory flavor."
+            },
+            {
+                "priority": 3,
+                "wantsBeverage": true,
+                "seatIdx": 3,
+                "foodType": "eggplant_cooked",
+                "diningOption": "dine_in",
+                "flavors": [],
+                "flavorDescription": ""
+            }
+        ]
+    },
+    "traceInfo": {
+        "traces": []
+    },
+    "timeLimit": 270,
+    "taskName": "task_level9_5",
+    "specialEvents": []
+}
